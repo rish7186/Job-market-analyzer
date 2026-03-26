@@ -63,7 +63,7 @@ Instead of generating fake data, the application displays a proper message to ma
 
 ## 🌐 Live Demo
 
-(https://job-market-analyzer-hzkmrttbadxwfppy7vdikb.streamlit.app/)
+([Click Here For Live Demo](https://job-market-analyzer-hzkmrttbadxwfppy7vdikb.streamlit.app/))
 
 ---
 
