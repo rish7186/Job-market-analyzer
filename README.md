@@ -37,27 +37,27 @@ Instead of generating fake data, the application displays a proper message to ma
 ## 📸 Screenshots
 
 ### 📊 Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ### 🎛️ Dashboard Controls
-![Dashboard Controls](screenshots/Dashboard-controls.png)
+![Dashboard Controls](Dashboard-controls.png)
 
 ---
 
 ### 📌 Job Role Demand
-![Job Role Demand](screenshots/job-role-demand.png)
+![Job Role Demand](job-role-demand.png)
 
 ---
 
 ### 🏢 Top Hiring Companies
-![Top Hiring Companies](screenshots/top-hiring-company.png)
+![Top Hiring Companies](top-hiring-company.png)
 
 ---
 
 ### 🔥 Top Skills & Salary
-![Top Skills and Salary](screenshots/Top-skill-demand-and-salary.png)
+![Top Skills and Salary](Top-skill-demand-and-salary.png)
 
 ---
 
